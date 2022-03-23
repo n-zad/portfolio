@@ -1,2 +1,2 @@
-# portfolio
-Nickzad Bayati's code portfolio
+# My Code Portfolio 
+By Nickzad Bayati 
