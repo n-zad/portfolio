@@ -11,3 +11,4 @@ Projects:
 - Approximation of the Metric Traveling Salesperson Problem (2021)
 - Simple Game With Entities Utilizing Single-Step and A* Pathing (2020)
 - Android App Development (2020)
+- Side-scrolling Game using JavaScript and p5.js (2019)
