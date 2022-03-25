@@ -1,4 +1,4 @@
-# My Code Portfolio 
+# Code Portfolio 
 By Nickzad Bayati
 
 A collection of coding projects from the last couple years I'd like to showcase.
