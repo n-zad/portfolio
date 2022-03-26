@@ -6,7 +6,6 @@ A collection of coding projects from the last couple years I'd like to showcase.
 Projects:
 - Blog Website (2022)
 - MIPS Assembly Programs (2022)
-- High Performance Matrix Multiplication Using MPI (2021)
 - Greedy Algorithm for Single-link Clustering (2021)
 - Blend Two BMP Images Together (2021)
 - Simple Game With Entities Utilizing Single-Step and A* Pathing (2020)
