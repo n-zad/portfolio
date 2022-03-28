@@ -3,7 +3,7 @@ By Nickzad Bayati
 
 Program is written in Java.
 
-Instructions:  
+Instructions:
 - Use either the arrow keys or wasd to move.  
 - Avoid bats and skeletons for 30 seconds.  
 - Torches can be collected by moving over them.  
